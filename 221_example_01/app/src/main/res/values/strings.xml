@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">221_example_01</string>
+    <string name="go_to_call">跳转</string>
+    <string name="phoneNum">请输入手机号</string>
+</resources>

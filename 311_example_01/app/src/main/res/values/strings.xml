@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">311_example_01</string>
+    <string name="lay">使用线束布局内嵌线性布局</string>
+    <string name="name">姓名</string>
+    <string name="input">输入名字</string>
+    <string name="_class">班级:</string>
+    <string name="hobby">爱好:</string>
+    <string name="_lanqiu">篮球</string>
+    <string name="music">音乐</string>
+    <string name="travel">旅游</string>
+    <string name="game">游戏</string>
+    <string name="rank">等级:</string>
+    <string name="you">优</string>
+    <string name="liang">良</string>
+    <string name="zhong">中</string>
+    <string name="ji">及</string>
+    <string name="cha">差</string>
+    <string name="enter">提交</string>
+    <string-array name="class_array">
+        <item>计科 1701</item>
+        <item>计科 1702</item>
+        <item>软件 1701</item>
+        <item>网络 1701</item>
+    </string-array>
+</resources>

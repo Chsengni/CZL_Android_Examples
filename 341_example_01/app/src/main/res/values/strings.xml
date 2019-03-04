@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">341_example_01</string>
+    <string name="myfriends">我的好友</string>
+    <string name="setOnLine">设置在线</string>
+    <string name="exit">退出</string>
+    <string name="demo">蓝牙Demo</string>
+    <string name="oppo_r9s">连接OPPO R9s</string>
+</resources>

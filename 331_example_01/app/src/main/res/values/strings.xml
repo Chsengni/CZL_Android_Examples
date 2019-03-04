@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">331_example_01</string>
+    <string name="title">用户登录</string>
+    <string name="username">用户名:</string>
+    <string name="password">密码:</string>
+    <string name="login">登录</string>
+    <string name="zhushi">动态加载布局文件,实现弹窗效果</string>
+</resources>
